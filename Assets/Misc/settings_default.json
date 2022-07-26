@@ -1,0 +1,161 @@
+{
+    "Audio": {
+        "master_volume": 0.5,
+        "music_volume": 0.0,
+        "sound_volume": 0.5
+    },
+    "Controls": {
+        "main_quit_game": [
+            "left ctrl + w",
+            "controller5"
+        ],
+        "main_debug_mode": [
+            "left ctrl + b",
+            "controller15"
+        ],
+        "main_mouse": [
+            "left ctrl + m"
+        ],
+        "main_update_default_settings": [
+            "left ctrl + left shift + s"
+        ],
+        "menu_up": [
+            "up",
+            "controller11"
+        ],
+        "menu_down": [
+            "down",
+            "controller12"
+        ],
+        "menu_left": [
+            "left",
+            "controller13"
+        ],
+        "menu_right": [
+            "right",
+            "controller14"
+        ],
+        "menu_select": [
+            "return",
+            "controller0"
+        ],
+        "menu_back": [
+            "escape",
+            "controller1"
+        ],
+        "menu_select_mouse": [
+            "mouse1"
+        ],
+        "menu_back_mouse": [
+            "mouse3"
+        ],
+        "player_left": [
+            "a",
+            "controller-1"
+        ],
+        "player_right": [
+            "d",
+            "controller-2"
+        ],
+        "player_jump": [
+            "w",
+            "controller0"
+        ],
+        "player_dash": [
+            "space",
+            "controller-10"
+        ],
+        "player_attack": [
+            "c",
+            "controller2"
+        ],
+        "player_look_up": [
+            "up",
+            "controller-7"
+        ],
+        "player_look_down": [
+            "down",
+            "controller-8"
+        ],
+        "player_look_left": [
+            "left",
+            "controller-5"
+        ],
+        "player_look_right": [
+            "right",
+            "controller-6"
+        ],
+        "god_mode": [
+            "left ctrl + g",
+            "controller7"
+        ],
+        "god_mode_faster": [
+            "left shift",
+            "controller8"
+        ],
+        "god_mode_up": [
+            "w",
+            "controller-3"
+        ],
+        "god_mode_down": [
+            "s",
+            "controller-4"
+        ],
+        "god_mode_left": [
+            "a",
+            "controller-1"
+        ],
+        "god_mode_right": [
+            "d",
+            "controller-2"
+        ],
+        "god_mode_flip_v": [
+            "v"
+        ],
+        "god_mode_flip_h": [
+            "h"
+        ],
+        "game_menu": [
+            "escape",
+            "controller6"
+        ],
+        "game_save": [
+            "left ctrl + s",
+            "controller4"
+        ],
+        "credits_up": [
+            "up",
+            "controller11"
+        ],
+        "credits_down": [
+            "down",
+            "controller12"
+        ],
+        "credits_toggle_scroll": [
+            "space",
+            "controller0"
+        ],
+        "credits_back": [
+            "escape",
+            "mouse3",
+            "controller1"
+        ],
+        "credits_up_mouse": [
+            "mouse4"
+        ],
+        "credits_down_mouse": [
+            "mouse5"
+        ],
+        "credits_toggle_scroll_mouse": [
+            "mouse1"
+        ]
+    },
+    "Game": [],
+    "Video": {
+        "window_size": [
+            1920,
+            1080
+        ],
+        "fullscreen": false
+    }
+}
